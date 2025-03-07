@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yunfu Deng, PhD student @ UW Madison
-- 👀 I’m interested in robotics and reinforcement learning
+- 👀 I’m roboticist
 
 <!---
 Anchoret13/Anchoret13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
